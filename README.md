@@ -1,6 +1,3 @@
-### Project 2: Beverage Sales Data
-
-**Description:**
 The "[Beverage Sales Data](https://github.com/OLUJUWON-OMOTOBA/Project-2/blob/main/Beverage%20Data%20(1).pbix)" Power BI project is a compelling exploration of the CocaCola company's's sales landscape, providing a comprehensive visual representation of key metrics and trends. This project transforms raw sales data into actionable insights, enabling stakeholders to make informed decisions and capitalize on opportunities within the dynamic beverage market.
 
 **Key Features:**
