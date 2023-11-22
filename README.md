@@ -25,3 +25,5 @@ The "CocaCola Sales Data" project is designed to empower beverage industry profe
 
 **Conclusion:**
 "Beverage Sales Data" is more than a visualization tool; it's a strategic asset for stakeholders in the beverage industry. Whether identifying new market opportunities or optimizing existing operations, this Power BI project transforms data into actionable intelligence for sustained success in the dynamic beverage market.
+
+![Screenshot 2023-11-07 082231](https://github.com/OLUJUWON-OMOTOBA/Project-2/assets/134015058/f354db5a-8636-4a5c-9c5f-b30a34b4684f)
